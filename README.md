@@ -8,5 +8,5 @@ Both raw and processed RNA-Seq data are available on GEO: GSE328106 and GSE32941
 
 ### Code
 run_deseq.R -- differential expression analysis using DESeq2 </br>
-run_GSEA.sh -- pathway analysis using GSEA
+run_GSEA.sh -- pathway analysis using GSEA </br>
 run_CIE.R   -- causal inference engine (CIE) analysis
