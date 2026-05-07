@@ -7,6 +7,6 @@ Travis E. Faust, Atsushi Saito, Shoichi Ishikawa, Kun Yang, Wendy Xin, Ho Namkun
 Both raw and processed RNA-Seq data are available on GEO: GSE328106 and GSE329414
 
 ### Code
-run_deseq.R -- differential expression analysis using DESeq2 </br>
-run_GSEA.sh -- pathway analysis using GSEA </br>
-run_CIE.R   -- causal inference engine (CIE) analysis
+run_deseq.R &nbsp;&nbsp;&nbsp;differential expression analysis using DESeq2 </br>
+run_GSEA.sh &nbsp;&nbsp;&nbsp;pathway analysis using GSEA </br>
+run_CIE.R &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;causal inference engine (CIE) analysis
